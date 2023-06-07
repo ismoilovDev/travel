@@ -26,13 +26,6 @@ function Navbar() {
             >
                Monuments
             </NavLink>
-            <NavLink
-               exact='true'
-               to={'/series/1'}
-               activeclassname="active"
-            >
-               Photo Gallery
-            </NavLink>
          </NavLinks>
       </Nav>
    )
