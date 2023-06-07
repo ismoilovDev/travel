@@ -2,9 +2,9 @@ import React from 'react'
 import HomePage from './pages/HomePage/HomePage'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
-import Movies from './pages/Movies/Movies';
-import MovieDetails from './pages/MovieDetails/MovieDetails';
-import Series from './pages/Series/Series';
+import Monuments from './pages/Monuments/Monuments';
+import MonumentsDetails from './pages/MonumentsDetails/MonumentDetails';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -12,10 +12,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route path='/' element={<HomePage />}/>
-        <Route path='/movies/:page' element={<Movies />}/>
-        <Route path='/series/:page' element={<Series />}/>
-        <Route path='/detail/:id' element={<MovieDetails />}/>
+        <Route path='/monuments' element={<Monuments />}/>
+        <Route path='/detail/:id' element={<MonumentsDetails />}/>
       </Routes>
+      <Footer />
     </BrowserRouter>
   )
 }

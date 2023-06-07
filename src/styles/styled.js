@@ -18,12 +18,15 @@ export const Container = styled.div`
 export const Wrap = styled.div`
    position: relative;
    width: 100%;
-   min-height: 600px;
+   min-height: ${props => props.isMoun ? '440px': '600px'};
    padding: 3rem 2rem;
    display: flex;
    justify-content: flex-end;
-   background-color: ${props => props.red};
-   background-image: linear-gradient(to right, rgba(31.5, 31.5, 31.5, 1) calc((50vw - 170px) - 340px), rgba(31.5, 31.5, 31.5, 0.84) 30%, rgba(31.5, 31.5, 31.5, 0.84) 100%), url(${props => props.bg_url});
+   background-image: 
+      linear-gradient(180deg, rgba(22, 21, 26, 0.82) 5.05%, rgba(22, 21, 26, 0) 31.31%),
+      linear-gradient(0deg, #16151A -2%, rgba(22, 21, 26, 0) 48.02%),
+      linear-gradient(89.65deg, rgba(7, 6, 14, 0.88) -0.74%, rgba(7, 6, 14, 0) 50.25%),
+      url(${props => props.bg_url});
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;

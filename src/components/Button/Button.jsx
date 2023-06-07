@@ -1,7 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
+import { Link } from 'react-router-dom';
 
-const ButtonStyled = styled.a`
+const ButtonStyled = styled(Link)`
    background: #DD2C00;
    height: 50px;
    line-height: 50px;
@@ -18,7 +19,7 @@ const ButtonStyled = styled.a`
 
 function Button({ title, path }) {
    return (
-      <ButtonStyled className="reusable_btn" href={path}>{title}</ButtonStyled>
+      <ButtonStyled className="reusable_btn" to={'/monuments'}>{title}</ButtonStyled>
    )
 }
 

@@ -73,6 +73,7 @@ export const NavLinks = styled.div`
       }
 
       a.active {
+         color: #fff;
          &::after {
             transform: scaleX(1);
             opacity: 1;

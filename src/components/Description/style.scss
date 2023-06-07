@@ -1,0 +1,28 @@
+.descr_item {
+   padding: 1rem 0;
+   border-bottom: 3px dashed;
+   padding-bottom: 1rem;
+   @media (min-width: 420px) {
+      padding-bottom: 2rem;
+   }
+   h3 {
+      font-size: 5vw;
+      @media (min-width: 420px) {
+         font-size: 1.5rem;
+         margin-top: 15px;
+      }
+      @media (min-width: 768px) {
+         font-size: 2.5rem;
+      }
+   }
+   p {
+      text-align: justify;
+      font-size: 3vw;
+      @media (min-width: 420px) {
+         font-size: 1rem;
+      }
+   }
+   &:nth-child(3) {
+      border-bottom: 0;
+   }
+}

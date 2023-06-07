@@ -1,0 +1,134 @@
+{
+  "monuments": [
+    {
+      "id": 1,
+      "title": "Ark of Bukhara",
+      "description": {
+        "descr": "The Ark is a large earthen fortification located in the northwestern part of contemporary Bukhara. In layout, it resembles a modified rectangle, a little elongated from the west to the east. The perimeter of the external walls is 789.6 m (2,591 ft), the area enclosed being 3.96 ha (9.8 acres). The height of the walls varies from 16 to 20 m (52 to 66 ft).Entrance to the Ark fortress, photographed around 1907 by Sergey Prokudin-Gorsky The ceremonial entrance into the citadel is architecturally framed by two 18th-century towers. The upper parts of the towers are connected by a gallery, rooms, and terraces. A gradually rising ramp leads through a winch-raised portal and a covered long corridor to the mosque of Dzhuma.",
+        "construction": "Prince Siyawush or Siyavusha built the Ark of Bukhara and was eventually buried there. After his death, the great citadel was put out of commission to mourn the prince. Three thousand years later, Budun Bukhar Khudah restored the citadel. There were many aspects of the design of the Ark of Bukhara that were influenced by astrological elements. For example, the palace has 7 stone pillars for the 7 star constellation Ursa Major. The overall shape of the Ark was also influenced by the constellation. Foundations of the citadel were also influenced by the topography and tombs of the area. There are multiple different kinds of tombs that became a unique feature of Bukhara. Single tombs were located in city buildings and there were also special tombs reserved for important people. The layout of the city divided it into three sections: the citadel, the madina, and the suburbs.",
+        "history": "The Ark is built on the remains of earlier structures, which constitute a layer twenty meters deep under the base arch, the layers indicating that previous fortresses had been built and destroyed on the site. The first known reference to the Ark is contained in the 'History of Bukhara' by Narshakhi (899 - 960). Abubakra wrote 'Bindu, the ruler of Bukhara, built this fortress, but it soon was destroyed. Many times it was constructed, many times destroyed.' Abubakra says that when the last ruler to rebuild asked counsel of his wise men, they advised him to construct the fortress around seven points, located in the same relation to each other as the stars of the constellation Ursa Major."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/ark_bukhara.png?raw=true"
+    },
+    {
+      "id": 2,
+      "title": "Bibi-Khanym Mosque",
+      "description": {
+        "descr": "The Bibi-Khanym Mosque (Uzbek: Bibixonim masjidi; Persian: مسجد بی بی خانم; also variously spelled as Khanum, Khanom, Hanum, Hanim) is one of the most important monuments of Samarkand, Uzbekistan. In the 15th century, it was one of the largest and most magnificent mosques in the Islamic world. It is considered a masterpiece of the Timurid Renaissance. By the mid-20th century, only a grandiose ruin of it still survived, but major parts of the mosque were restored during the Soviet period.",
+        "construction": "According to the manuscripts, the mosque was erected by the order of Timur in 1399-1405. It possesses the traits typical for many Muslim medieval constructions, especially aivanyard compositions.[12] The mosque follows the basic plan of the courtyard mosque. Its outer walls enclose a rectangular area which measures 167 metres (182.63 yards) in length and 109 metres (119.20 yards) wide and runs roughly from northeast to southwest — the Qibla accordingly. However the size of the site vacant of covered galleries was only 78 by 64 meters.",
+        "history": "After his Indian campaign in 1399, Timur (Tamerlane) decided to undertake the construction of a gigantic mosque in his new capital, Samarkand. When Timur returned from his military campaign in 1404 the mosque was almost completed. However, Timur was not happy with the progress of construction, and immediately had various changes made, especially on the main cupola. From the beginning of the construction, problems of structural integrity of the structure revealed themselves. Various reconstructions and reinforcements were undertaken in order to save the mosque. However, after just a few years, the first bricks had begun to fall out of the huge dome over the mihrab.[3] The scale of Timur's plans pushed the building techniques of the time to their limit, and the building's integrity was not helped by the rushed nature of its construction"
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/bibi_khaym.png?raw=true"
+    },
+    {
+      "id": 3,
+      "title": "Guri-Amir",
+      "description": {
+        "descr": "The Gūr-i Amīr or Guri Amir (Uzbek: Amir Temur maqbarasi, Go'ri Amir, Persian: گورِ امیر) is a mausoleum of the Turco-Mongol[1] conqueror Timur (also known as Tamerlane) in Samarkand, Uzbekistan. It occupies an important place in the history of Central Asian Architecture as the precursor for and had influence on later Great Mughal architecture tombs, including Gardens of Babur in Kabul, Humayun's Tomb in Delhi and the Taj Mahal in Agra, built by Timur's Indian descendants, Turco-Mongols that followed Indian culture with Central Asian influences, Mughals established the ruling Mughal dynasty of the Indian subcontinent. The mausoleum has been heavily restored.",
+        "construction": "Gur-e Amir is Persian for 'Tomb of the King'. This architectural complex with its azure dome contains the tombs of Tamerlane, his sons Shah Rukh and Miran Shah and grandsons Ulugh Beg and Muhammad Sultan. Also honoured with a place in the tomb is Timur's teacher Sayyid Baraka.The earliest part of the complex was built at the end of the 14th century by the orders of Muhammad Sultan. Now only the foundations of the madrasah and khanaka, the entrance portal and a part of one of four minarets remains.",
+        "history": "In 1740, king Nader Shah of the Afsharid Empire tried to carry away Tamerlane's sarcophagus. Nader idolized Timur. He imitated Timur's military prowess and, later in his reign, Timur's cruelty, but in the process of removal the sarcophagus broke in two. This was interpreted as a bad omen. His advisers urged him to return the stone to its rightful place. Unfortunately, after the end of 17th century Samarkand suffered a long period of decline. The city lost the status of capital which transferred to Bukhara. The great Silk Road bypassed the city and its great historical monuments stood empty and forgotten. Only after the Second World War did extensive restoration work in Gur-Emir begin. In the 1950s the dome, main portal and minarets were refurbished. By that time the majolica tiles had mostly fallen away. In the 1970s, the restoration of the interior was undertaken."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/guri_amir.png?raw=true"
+    },
+    {
+      "id": 4,
+      "title": "Ichan-Kala",
+      "description": {
+        "descr": "Itchan Kala (Uzbek: Ichan-Qаl’а) is the walled inner town of the city of Khiva, Uzbekistan. Since 1990, it has been protected as a World Heritage Site.The old town retains more than 50 historic monuments and 250 old houses, dating primarily from the eighteenth or nineteenth centuries. ",
+        "construction": " Juma Mosque, for instance, was established in the tenth century and rebuilt from 1788 to 1789, although its celebrated hypostyle hall still retains 112 columns taken from ancient structures. The most spectacular features of Itchan Kala are its crenellated brick walls and four gates, one at each side of the rectangular fortress. Although the foundations are believed to have been laid in the tenth century, present-day 10-metre-high (33 ft) walls were erected mostly in the late seventeenth century and later repaired.",
+        "history": "Notable buildings in Itchan Kala are Juma Mosque, Ak Mosque, madrasahs of Alla-Kulli-Khan, Muhammad Aminkhon, Muhammad Rakhimkhon, Mausoleums of Pahlavon Mahmoud, Sayid Allavuddin, Shergozikhon as well as caravanserais and markets."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/ichan_kala.png?raw=true"
+    },
+    {
+      "id": 5,
+      "title": "Islom-Khuja",
+      "description": {
+        "descr": "This almost a modern complex dates back to the beginning of the XX century. It includes a minaret and a mosque. The complex is called in honour of Islam Khoja, Prime Minister of Isfandiar Khan. Islam Khoja minaret called the symbol of Khiva. It is narrowed upwards, which dates back to the earliest examples of the architecture of the XIV century. The brickwork alternates with bands of glazed patterns on the minaret. The height of the minaret 56.6 meters, diameter of the fundament is 9.5 at the base.",
+        "construction": " The height of the minaret 56.6 meters, diameter of the fundament is 9.5 at the base. Islam Khoja Madrasah is located behind the minaret. It consists of 42 hujras and a large domed hall. Skills of builders are shown in contrast combinations of architectural forms that skillfully used in a limited space. Mihrab niche is decorated with majolica and ganch. The facade is decorated with glaze. Islam Khoja minaret, built near the madrasah is the highest structure in Khiva, and has become its symbol.",
+        "history": "The facade is decorated with glaze. Islam Khoja minaret, built near the madrasah is the highest structure in Khiva, and has become its symbol. The minaret is 44 m. high; the diameter on the foundation is about 10 m. The shaft of the minaret diminishes in its diameter as it rises, and produces an unusual impression."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/islom_khuja.png?raw=true"
+    },
+    {
+      "id": 6,
+      "title": "Ismail-Samani",
+      "description": {
+        "descr": "The Samanid Mausoleum is a mausoleum located in the northwestern part of Bukhara, Uzbekistan, just outside its historic center. It was built in the 10th century CE as the resting place of the powerful and influential Islamic Samanid dynasty that ruled the Samanid Empire from approximately 900 to 1000. It contained three burials, one of whom is known to have been that of Nasr II. The mausoleum is considered one of the iconic examples of early Islamic architecture and is known as the oldest funerary building of Central Asian architecture.",
+        "construction": "  Islamic Samanid dynasty that ruled the Samanid Empire from approximately 900 to 1000. It contained three burials, one of whom is known to have been that of Nasr II. The mausoleum is considered one of the iconic examples of early Islamic architecture and is known as the oldest funerary building of Central Asian architecture. The Samanids established their de facto independence from the Abbasid Caliphate in Baghdad and ruled over parts of modern Afghanistan, Iran, Uzbekistan, Tajikistan, and Kazakhstan.",
+        "history": "The Samanids established their de facto independence from the Abbasid Caliphate in Baghdad and ruled over parts of modern Afghanistan, Iran, Uzbekistan, Tajikistan, and Kazakhstan. It is the only surviving monument from the Samanid era, but American art historian Arthur Upham Pope called it the one of the finest in Persia. "
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/ismail_samani.png?raw=true"
+    },
+    {
+      "id": 7,
+      "title": "Juma-Mosque",
+      "description": {
+        "descr": "Juma Mosque (Uzbek: Juma masjid / Жума масжид, lit. 'Friday Mosque') is a 10th-18th century mosque in Khiva, Uzbekistan.[1] It is one of the principal monuments of Itchan Kala, the walled old city of Khiva, which is a World Heritage Site.[2] It stands in the middle of Itchan Kala, on the road connecting the west gate (Ota darvoza) and the east gate (Polvon darvoza). ",
+        "construction": "  It stands in the middle of Itchan Kala, on the road connecting the west gate (Ota darvoza) and the east gate (Polvon darvoza). The mosque was first documented in the 10th century, but it was rebuilt in 1788.It is a large one-story brick building with a flat roof, supported by 212 wooden columns in 17 rows. Its total size is 55 x 46 m, and its minaret is 42 m high.",
+        "history": "This Mosque established their de facto independence from the Abbasid Caliphate in Baghdad and ruled over parts of modern Afghanistan, Iran, Uzbekistan, Tajikistan, and Kazakhstan. It is the only surviving monument from the Samanid era, but American art historian Arthur Upham Pope called it the one of the finest in Persia. "
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/juma_mosque.png?raw=true"
+    },
+    {
+      "id": 8,
+      "title": "Kalan-Minaret",
+      "description": {
+        "descr": "The Kalyan Minaret (Persian/Tajik: Minâra-i Kalân, Kalon Minor, Kalon Minaret) is a minaret of the Po-i-Kalyan mosque complex in Bukhara, Uzbekistan and one of the most prominent landmarks in the city. The minaret, designed by Bako, was built on an earlier existing structure called Kalyan by the Qarakhanid ruler Mohammad Arslan Khan in 1127 to summon Muslims to prayer five times a day. An earlier tower was collapsed before starting this structure which was called Kalyan, meaning welfare, indicating a Buddhist or zoroasterian past. ",
+        "construction": "  An earlier tower was collapsed before starting this structure which was called Kalyan, meaning welfare, indicating a Buddhist or zoroasterian past. It is made in the form of a circular-pillar baked brick tower, narrowing upwards. It is 45.6 metres (150 feet) high (48 metres including the point), of 9 metres (30 feet) diameter at the bottom and 6 metres (20 feet) overhead.There is a brick spiral staircase that twists up inside around the pillar to the rotunda.",
+        "history": "It is 45.6 metres (150 feet) high (48 metres including the point), of 9 metres (30 feet) diameter at the bottom and 6 metres (20 feet) overhead.There is a brick spiral staircase that twists up inside around the pillar to the rotunda. The tower base has narrow ornamental strings belted across it made of bricks which are placed in both straight or diagonal fashion. The frieze is covered with a blue glaze with inscriptions. "
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/kalan_minaret.png?raw=true"
+    },
+    {
+      "id": 9,
+      "title": "Kalan-Mosque",
+      "description": {
+        "descr": "Po-i-Kalan, or Poi Kalan (Uzbek: Poi Kalon, which means 'At the Foot of the Great One'), is an Islamic religious complex located in Bukhara, Uzbekistan. The complex consists of three parts, the Kalan Mosque (Masjid-i Kalan), the Kalan Minaret (Minâra-i Kalân) to which the name refers to, and the Mir-i-Arab Madrasah. The positioning of the three structures creates a square courtyard in its center, with the Mir-i-Arab and the Kalan Mosque standing on opposite ends.",
+        "construction": " The complex consists of three parts, the Kalan Mosque (Masjid-i Kalan), the Kalan Minaret (Minâra-i Kalân) to which the name refers to, and the Mir-i-Arab Madrasah. The positioning of the three structures creates a square courtyard in its center, with the Mir-i-Arab and the Kalan Mosque standing on opposite ends. In addition, the square is enclosed by a bazaar and a set of baths connected to the Minaret on the northern and southern ends respectively. The congregational mosque in the complex is one of the largest mosques in Central Asia,",
+        "history": "In addition, the square is enclosed by a bazaar and a set of baths connected to the Minaret on the northern and southern ends respectively. The congregational mosque in the complex is one of the largest mosques in Central Asia, behind the Bibi Khanum Mosque in Samarkand, Uzbekistan, and the Great Mosque of Herat in Afghanistan."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/kalan_mosque.png?raw=true"
+    },
+    {
+      "id": 10,
+      "title": "Kalta-Minor",
+      "description": {
+        "descr": "Kaltaminor is an architectural monument in Khiva . It is located in front of the Madrasah of Muhammad Amin Khan and is sometimes referred to as a part of it. It ranks 6th among the tallest medieval towers in Uzbekistan. Kaltaminor was created as the largest and tallest minaret in the Muslim world by Muhammad Amin Khan, Khan of the Khanate of Khiva . According to his plan, the height of the tower should be 70-80 meters, and the diameter, which decreases sharply with increasing height, should increase the strength of the tower.",
+        "construction": " According to his plan, the height of the tower should be 70-80 meters, and the diameter, which decreases sharply with increasing height, should increase the strength of the tower. Muhammad Amin Khan decides to build the world's tallest minaret, even surpassing the 73-meter Indian Qutb Minar. The diameter of its base is 14.2 meters. Construction began in 1852 , and in 1855 , when the height of the tower reached 29 meters, the construction was suddenly stopped.",
+        "history": "In addition,  when the height of the tower reached 29 meters, the construction was suddenly stopped. According to Ogahi, a historian and writer from Khiva , the construction was not completed because the initiator of the construction, Muhammad Amin Khan, was killed in a battle near Serakhs in 1855."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/kalta_minor.png?raw=true"
+    },
+    {
+      "id": 11,
+      "title": "Observatory-Ulughbek",
+      "description": {
+        "descr": "The Ulughbek Observatory is an observatory in Samarkand, Uzbekistan, built in the 1420s by the Timurid astronomer Ulughbek. Islamic astronomers who worked at the observatory include Al-Kashi, Ali Qushji, and Ulugh Beg himself. The observatory was destroyed in 1449 and rediscovered in 1908. Ulugh Beg, the son of Shah Rukh and grandson of sultan Timur, became the ruler of Samarkand in the 15th century AD.",
+        "construction": "  Ulugh Beg was very skilled in mathematics and astronomy. He taught many important astronomers, including Ali Qushji. Many historians have tried to accurately identify dates of the events that have occurred during the Samarkand or Ulughbek Observatory. The differences in interpreting dates and citations of historical sources have cause inaccuracies and neglection of some events during this time. In Jamshid al-Kashi’s letters to Ulugh Beg's father, you can see Ulughbek's visit to the Maragha Observatory had an effect on Ulughbek.",
+        "history": "This could have affected Ulugh Beg's reason for his transformation of the city of Samarkand and his mathematical orientation. Other matters such as, political, economic, military, social, and even commercial reasons could have played a role in the building of Ulugh Beg's observatory. Another reason of starting his own observatory could have been because of Ulugh Beg's differences in observations of those with al-Sufi."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/observatory_ulugbek.png?raw=true"
+    },
+    {
+      "id": 12,
+      "title": "Pahlavan-Mahmoud",
+      "description": {
+        "descr": "Pahlavan Mahmud was an Iranian poet and wrestler who lived from 1247-1326. Also known as Puria-ye-Wali, Mahmud was lionized as the paragon of Iranian chivalry (javanmardi) and esteemed for his literary and athletic accomplishments. Although he was not strictly a religious figure, his tomb became a popular place of pilgrimage in both Khoy (in Iran) and Khiva (in Uzbekistan), both of which claimed Mahmud as their own. In 1810 the second ruler of the Qungrat dynasty, Mohammad Rahim I (r. 1806-1825), effectively adopted Mahmud as the khanate's patron saint and set about beautifying his tomb, which until then was a likely a modest affair.",
+        "construction": " In 1810 the second ruler of the Qungrat dynasty, Mohammad Rahim I (r. 1806-1825), effectively adopted Mahmud as the khanate's patron saint and set about beautifying his tomb, which until then was a likely a modest affair. As the historian Dick Luijendijk notes, Mahmud was reappraised as the city's patron saint, a champion wrestler and a pioneer of Sufism (Luijendijk, see reference below). These qualities resonated well with the khanate's precarious position in a conflict-ridden region. In Mahmud, the Khan likely saw something of a kindred spirit; a mirror of his own self image. ",
+        "history": " Mahmud represented physical strength, Islamic piety, and cultural sophistication, qualities that the young Khan likely wished to emulate. Despite this, there was never any attempt within Khiva to popularize the style of wrestling that was Mahmud's original claim to fame, nor were any zurkhaneh (Iranian-style wrestling facilities) established in the area."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/pahlavan_mahmoud.png?raw=true"
+    },
+    {
+      "id": 13,
+      "title": "Registan",
+      "description": {
+        "descr": "The Registan (Uzbek: Регистон, Registon) was the heart of the ancient city of Samarkand of the Timurid Empire, now in Uzbekistan. The name Rēgistan (ریگستان) means sandy place or desert in Persian. The Registan was a public square, where people gathered to hear royal proclamations, heralded by blasts on enormous copper pipes called dzharchis - and a place of public executions.",
+        "construction": "It is framed by three madrasahs (Islamic schools) of distinctive Islamic architecture. The square was regarded as the hub of the Timurid Renaissance. The three madrasahs of the Registan are the Ulugh Beg Madrasah (1417–1420), the Sher-Dor Madrasah (1619–1636), and the Tilya-Kori Madrasah (1646–1660). Madrasah is an Arabic term meaning school.",
+        "history": " The three madrasahs of the Registan are the Ulugh Beg Madrasah (1417–1420), the Sher-Dor Madrasah (1619–1636), and the Tilya-Kori Madrasah (1646–1660). Madrasah is an Arabic term meaning school. It is framed by three madrasahs (Islamic schools) of distinctive Islamic architecture. The square was regarded as the hub of the Timurid Renaissance."
+      },
+      "img_src": "https://github.com/ismoilovDev/travel/blob/master/src/assets/imgs/buildings/registan.png?raw=true"
+    }
+  ]
+}

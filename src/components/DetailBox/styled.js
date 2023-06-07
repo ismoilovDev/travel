@@ -13,6 +13,7 @@ export const Details = styled.div`
    h2 {
       font-size: 7vw;
       margin-bottom: 15px;
+      color: #fff;
       @media (min-width: 420px) {
          font-size: 1.8rem;
       }

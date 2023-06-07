@@ -1,61 +1,29 @@
-import React from 'react'
-import { DescriptionBox } from './styled'
+import { DescriptionBox } from './styled';
+import './style.scss';
 
 function Description({ data }) {
    return (
       <>
          {
-            data.id && 
+            data && 
             <DescriptionBox>
-               <div className="image_content">
-                  <img src={data?.poster} alt="" />
+               <div className="descr_item">
+                  <h3>Description</h3>
+                  <p>
+                     {data.descr}
+                  </p>
                </div>
-               <div className="text_content">
-                  <div className="text_content_head">
-                     <ul>
-                        <li>
-                           <span>Год:</span>
-                           <p className="data">
-                              <span>{data?.release_date}</span>
-                           </p>
-                        </li>
-                        <li>
-                           <span>Страна:</span>
-                           <p className="data">
-                              {
-                                 data?.production_countries.map(item => (
-                                    <span key={item.name}>{item.name}</span>
-                                 ))
-                              }
-                           </p>
-                        </li>
-                        <li>
-                           <span>Жанр:</span>
-                           <p className="data">
-                              {
-                                 data?.genres.map(item => (
-                                    <span key={item.id}>{item.name}</span>
-                                 ))
-                              }
-                           </p>
-                        </li>
-                        <li>
-                           <span>Возраст:</span>
-                           <p className="data">
-                              <span>{data?.adult ? '18+' : 0}</span>
-                           </p>
-                        </li>
-                        <li>
-                           <span>Бюджет:</span>
-                           <p className="data">
-                              <span>{data?.budget}</span>
-                           </p>
-                        </li>
-                     </ul>
-                  </div>
+               <div className="descr_item">
+                  <h3>Construction and Architecture</h3>
+                  <p>
+                     {data.construction}
+                  </p>
                </div>
-               <div className="dscr">
-                  <p>{data?.description}</p>
+               <div className="descr_item">
+                  <h3>History</h3>
+                  <p>
+                     {data.history}
+                  </p>
                </div>
             </DescriptionBox>
          }

@@ -1,17 +1,16 @@
 import React from 'react';
 import AliceCarousel from 'react-alice-carousel';
 import 'react-alice-carousel/lib/alice-carousel.css';
-import MovieCard from '../MovieCard/MovieCard';
-import ActorsCard from '../ActorsCard/ActorsCard';
+import Card from '../Card/Card';
 
 const responsive = {
    0: {
       items: 1
    },
-   420: {
+   768: {
       items: 2
    },
-   556: {
+   992: {
       items: 3,
       itemsFit: 'contain'
    },
@@ -22,12 +21,7 @@ const Carusel = ({ contents, type }) => {
 
    if (type === "home" && contents) {
       items = contents.map((item, index) => {
-         return <MovieCard item={item} />
-      })
-   }
-   if (type === "details" && contents) {
-      items = contents.map((item, index) => {
-         return <ActorsCard item={item} />
+         return <Card item={item} />
       })
    }
 

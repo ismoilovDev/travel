@@ -1,5 +1,5 @@
 import React from 'react'
-import MovieCard from './../MovieCard/MovieCard';
+import MovieCard from '../Card/Card';
 import { MovieListComponent } from './styled.js';
 
 function MovieList({ movies }) {

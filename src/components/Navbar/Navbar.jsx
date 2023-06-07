@@ -14,7 +14,14 @@ function Navbar() {
          <NavLinks>
             <NavLink
                exact='true'
-               to={'/movies/1'}
+               to={'/'}
+               activeclassname="active"
+            >
+               Home
+            </NavLink>
+            <NavLink
+               exact='true'
+               to={'/monuments'}
                activeclassname="active"
             >
                Monuments
