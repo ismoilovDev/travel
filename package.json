@@ -18,7 +18,8 @@
     "react-router-dom": "^6.11.2",
     "sass": "^1.62.1",
     "styled-components": "^5.3.10",
-    "swiper": "^9.3.2"
+    "swiper": "^9.3.2",
+    "yet-another-react-lightbox": "^3.10.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
