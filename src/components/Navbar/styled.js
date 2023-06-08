@@ -115,6 +115,7 @@ export const NavLinks = styled.div`
       &.close {
          display: flex;
          opacity: 1;
+         height: auto;
       }
    }
    @media (min-width: 768px) {

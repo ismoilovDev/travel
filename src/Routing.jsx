@@ -4,8 +4,9 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar/Navbar'
 import Monuments from './pages/Monuments/Monuments';
 import MonumentsDetails from './pages/MonumentsDetails/MonumentDetails';
-import Footer from './components/Footer/Footer';
 import Contact from './pages/Contact/Contact';
+import Gallery from './pages/Gallery/Gallery';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path='/' element={<HomePage />}/>
         <Route path='/monuments' element={<Monuments />}/>
         <Route path='/detail/:id' element={<MonumentsDetails />}/>
+        <Route path='/gallery' element={<Gallery />}/>
         <Route path='/contact' element={<Contact />}/>
       </Routes>
       <Footer />
