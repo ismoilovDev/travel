@@ -26,6 +26,20 @@ function Navbar() {
             >
                Monuments
             </NavLink>
+            <NavLink
+               exact='true'
+               to={'/gallery'}
+               activeclassname="active"
+            >
+               Photo Gallery
+            </NavLink>
+            <NavLink
+               exact='true'
+               to={'/contact'}
+               activeclassname="active"
+            >
+               Contact Us
+            </NavLink>
          </NavLinks>
       </Nav>
    )
