@@ -1,6 +1,6 @@
 .contact {
-   height: 80vh;
    width: 100%;
+   padding: 2rem 0;
 }
 
 .containers {
@@ -51,6 +51,7 @@
    position: relative;
    padding: 0 0 10px;
    margin-bottom: 10px;
+   font-family: 'Prata', serif;
 }
 
 .contact-h2:after {
@@ -93,9 +94,10 @@
    outline: none;
    background-color: rgba(230, 230, 230, 0.6);
    padding: 0.5rem 1rem;
-   font-size: 1.1rem;
+   font-size: 1rem;
    margin-bottom: 22px;
    transition: .3s;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .field:hover {
@@ -107,18 +109,19 @@ textarea {
 }
 
 .btn {
-   padding: 0.5rem 1rem;
-   background-color: #2ecc71;
+   padding: .7rem 1rem;
+   background-color: rgb(221, 44, 0);
    color: #fff;
-   font-size: 1.1rem;
+   font-size: 1rem;
    border: none;
    outline: none;
    cursor: pointer;
    transition: .3s;
+   border-radius: 5px;
 }
 
 .btn:hover {
-   background-color: #27ae60;
+   background-color: rgb(178, 36, 0);
 }
 
 .field:focus {

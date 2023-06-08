@@ -6,6 +6,7 @@ export const Nav = styled.nav`
    height: 70px;
    display: flex;
    align-items: center;
+   justify-content: space-between;
    left: 0;
    top: 0;
    padding: 0 1rem;
@@ -30,16 +31,40 @@ export const Logo = styled.img`
       width: 64px;
    }
 `
+
 export const NavLinks = styled.div`
+   &.open {
+      display: flex;
+      opacity: 1;
+      transition: opacity .3s linear;
+   }
+   &.close {
+      display: none;
+      opacity: 0;
+   }
+   position: fixed;
+   width: 100%;
+   height: 100vh;
    display: flex;
+   flex-direction: column;
+   align-items: center;
+   left: 0;
+   top: 0;
+   padding: 1.5rem 0;
+   padding-top: 100px;
+   background-color: #000;
+   transition: opacity .3s linear;
+   opacity: 1;
+   z-index: 1000;
       a {
          position: relative;
          display: inline-block;
+         text-align: center;
          color: rgba(255, 255, 255, 0.7);
          font-weight: 400;
          font-size: 3.5vw;
          z-index: 1;
-         margin: 0 15px;
+         margin: 15px;
          &::after {
             content: "";
             position: absolute;
@@ -79,7 +104,61 @@ export const NavLinks = styled.div`
             opacity: 1;
          }
       }
+   @media (min-width: 600px) {
+      & {
+         position: static;
+         flex-direction: row;
+         align-items: center;
+         background-color: transparent;
+         padding-top: 1.5rem;
+      }
+      &.close {
+         display: flex;
+         opacity: 1;
+      }
+   }
    @media (min-width: 768px) {
       margin-left: 20px;
+   }
+`
+
+export const OpenBtn = styled.button`
+   display: flex;
+   border: 1px solid #fff;
+   outline: none;
+   background: transparent;
+   border-radius: 5px;
+   padding: 3px;
+   cursor: pointer;
+   svg {
+      font-size: 22px;
+      color: #fff;
+   }
+   @media (min-width: 600px) {
+      & {
+         display: none;
+      }
+   }
+`
+
+export const CloseBtn = styled.button`
+   position: absolute;
+   display: flex;
+   right: 30px;
+   top: 20px;
+   border: 1px solid #fff;
+   outline: none;
+   background: transparent;
+   border-radius: 50%;
+   padding: 5px;
+   cursor: pointer;
+   svg {
+      font-size: 20px;
+      color: #fff;
+   }
+   @media (min-width: 600px) {
+      & {
+         display: none;
+      }
    }
 `
